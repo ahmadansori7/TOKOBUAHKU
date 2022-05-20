@@ -1,6 +1,7 @@
 # TOKOBUAHKU
 Tugas Akhir Semester 1 </br>
-Teknik Informatika PSDKU Nganjuk POLIJE 2021</br></br>
+Teknik Informatika PSDKU Nganjuk </br>
+POLIJE 2021</br></br>
 
 by : </br>
 
