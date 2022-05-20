@@ -1,7 +1,7 @@
 # TOKOBUAHKU
-Tugas Akhir Semester 1 </br>
+Dokumentasi Tugas Akhir Semester 1 </br>
+Politeknik Negeri Jember</br>
 Teknik Informatika PSDKU Nganjuk </br>
-POLIJE 2021</br></br>
 
 by : </br>
 
